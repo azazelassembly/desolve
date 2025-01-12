@@ -2932,10 +2932,16 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 						RecoveredScripts
 					) .. "\n" or "")
 					.. [[
-		Thank you for using UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw.
-
-		If you didn't save in Binary (rbxl) - it's recommended to save the game right away to take advantage of the binary format & to preserve values of certain properties if you used IgnoreDefaultProperties setting (as they might change in the future).
-		You can do that by going to FILE -> Save to File As -> Make sure File Name ends with .rbxl -> Save
+		THIS GAME FUCKED BY DESOLVE.DECOMP
+████████▄     ▄████████    ▄████████  ▄██████▄   ▄█        ▄█    █▄     ▄████████      ████████▄     ▄████████  ▄████████  ▄██████▄    ▄▄▄▄███▄▄▄▄      ▄███████▄ 
+███   ▀███   ███    ███   ███    ███ ███    ███ ███       ███    ███   ███    ███      ███   ▀███   ███    ███ ███    ███ ███    ███ ▄██▀▀▀███▀▀▀██▄   ███    ███ 
+███    ███   ███    █▀    ███    █▀  ███    ███ ███       ███    ███   ███    █▀       ███    ███   ███    █▀  ███    █▀  ███    ███ ███   ███   ███   ███    ███ 
+███    ███  ▄███▄▄▄       ███        ███    ███ ███       ███    ███  ▄███▄▄▄          ███    ███  ▄███▄▄▄     ███        ███    ███ ███   ███   ███   ███    ███ 
+███    ███ ▀▀███▀▀▀     ▀███████████ ███    ███ ███       ███    ███ ▀▀███▀▀▀          ███    ███ ▀▀███▀▀▀     ███        ███    ███ ███   ███   ███ ▀█████████▀  
+███    ███   ███    █▄           ███ ███    ███ ███       ███    ███   ███    █▄       ███    ███   ███    █▄  ███    █▄  ███    ███ ███   ███   ███   ███        
+███   ▄███   ███    ███    ▄█    ███ ███    ███ ███▌    ▄ ███    ███   ███    ███      ███   ▄███   ███    ███ ███    ███ ███    ███ ███   ███   ███   ███        
+████████▀    ██████████  ▄████████▀   ▀██████▀  █████▄▄██  ▀██████▀    ██████████      ████████▀    ██████████ ████████▀   ▀██████▀   ▀█   ███   █▀   ▄████▀      
+                                                ▀                                                                                                                 
 
 		ServerStorage, ServerScriptService and Server Scripts are IMPOSSIBLE to save because of FilteringEnabled.
 
@@ -2964,7 +2970,7 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 		
 		Or Destroy the Camera.
 
-		This file was generated with the following settings:
+		This gmame was decompiled with the following settings:
 				]]
 					.. service.HttpService:JSONEncode(OPTIONS)
 					.. "\n\n\t\tElapsed time: "
